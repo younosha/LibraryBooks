@@ -1,0 +1,7 @@
+.buttonWrapp {
+  background: transparent;
+  padding: 5px;
+  border: 1px solid #dc143c;
+  border-radius: 10px;
+  color: #dc143c;
+}

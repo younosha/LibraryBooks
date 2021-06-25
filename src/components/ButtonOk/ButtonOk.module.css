@@ -1,0 +1,17 @@
+.buttonWrapp {
+  background: transparent;
+  padding: 5px;
+  border: 1px solid #228b22;
+  border-radius: 10px;
+  color: #228b22;
+  width: 60px;
+}
+.buttonWrappDis {
+  background: transparent;
+  padding: 5px;
+  border: 1px solid grey;
+  border-radius: 10px;
+  color: grey;
+  width: 60px;
+  cursor: not-allowed;
+}
